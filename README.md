@@ -1,10 +1,10 @@
-Запуск приёмника
+Запуск приёмника -
 starting the receiver:
 ```
 gcc -o r reciever.c && ./r
 ```
 
-Отправка сигнала
+Отправка сигнала -
 Sending a signal: 
 ```
 gcc -o e emitter.c 
